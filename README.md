@@ -19,11 +19,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
--  git clone https://github.com/husnain46/RN_Assignment.git
+-  git clone https://github.com/mrasfaraman/MobileApp-task-Asfar-.git
 
 2. Navigate to the project directory:
 
--  cd RN_Assignment
+-  cd MobileApp task (Asfar)
 
 3. Install dependencies:
 
